@@ -4,6 +4,8 @@ Um Product Card / Profile Card desenvolvido com HTML e CSS, inspirado em cards d
 
 📸 Preview
 
+Link do portifólio: https://profile-card-navy-delta.vercel.app/
+
 🚀 Tecnologias utilizadas
 HTML5
 CSS3
