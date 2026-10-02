@@ -12,6 +12,7 @@ CSS3
 Font Awesome / ícones
 Google Fonts
 📁 Estrutura do projeto
+
 product-card/
 │
 ├── assets/
